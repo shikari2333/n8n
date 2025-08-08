@@ -6,5 +6,5 @@ services:
       - N8N_BASIC_AUTH_ACTIVE=true
       - N8N_BASIC_AUTH_USER=admin
       - N8N_BASIC_AUTH_PASSWORD=yourpassword
-      - WEBHOOK_URL=
+      - WEBHOOK_URL=https://n8n-production-aa29.up.railway.app
       - N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS=true
